@@ -1,4 +1,4 @@
-#Catch-the-Bug
+<strong> Catch the Bug</strong>
 <br>
 <br>
 It's simple! Catch(click) each bug before they take over your screen!
