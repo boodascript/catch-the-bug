@@ -3,7 +3,7 @@
 <br>
 It's simple! Catch(click) each bug before they take over your screen!
 <br>
-Visit the live demo <a href="https://catch-the-fly.netlify.app/">HERE</a>
+Visit the live demo <a href="https://catch-the-bug.netlify.app/">HERE</a>
 <br>
 ![mockup 1](https://user-images.githubusercontent.com/80648658/188021342-cf0c6b7d-8c30-4bf2-a753-91cf5f4e0db9.PNG)
 <br>
